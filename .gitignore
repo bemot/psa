@@ -397,4 +397,3 @@ protected/
 # replace "media/" with "media/images/"
 media/
 #media/images/
-website/migrations/
